@@ -25,7 +25,7 @@ ReachMail is a full-stack AI-powered email management system. It offers real-tim
 
 | Home Page | Compose Email |
 |-----------|----------------|
-| ![Home](./screenshots/home.png) | ![Compose](./screenshots/compose.png) |
+| ![Home](./assets/Home.png) | ![Compose](./assets/compose.png) |
 ---
 ## 🛠️ Setup Instructions:
 
