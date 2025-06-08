@@ -17,7 +17,7 @@ ReachMail is a full-stack AI-powered email management system. It offers real-tim
 | Frontend | Backend | AI | Storage |
 |----------|---------|----|---------|
 | React (Next.js) | Node.js (Express) | OpenAI GPT-4 | IMAP (Email), Elasticsearch |
-| Tailwind CSS | Axios | RAG architecture | Supabase (if integrated) |
+| Tailwind CSS | Axios | RAG architecture | ChromaDB |
 
 ---
 
